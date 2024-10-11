@@ -211,3 +211,4 @@ From the above segemented graph:<br>
 
 With the help of clustering, we can understand the variables much better, prompting us to take careful decisions. With the identification of customers, companies can release products and services that target customers based on several parameters like income, age, spending patterns, etc. Furthermore, more complex patterns like product reviews are taken into consideration for better segmentation
 "# Customer-Segmentation-Using-Clustering" 
+"# Customer-Segmentation-Using-Clustering" 
